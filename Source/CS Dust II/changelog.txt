@@ -1,0 +1,69 @@
+Beta 1:
+- Remade track in Blender
+- Remodelled T ramp, mid and A short for better driving
+- Opened big doors for better driving
+- Added boost animations
+- Fixed faulty collission (normals/inverted faces)
+- Fixed faulty UV mapping
+- Changed glass layer road texture
+- Fixed lighting channel bug on stone road
+- Retextured glass layer roads
+- New minimap
+
+
+Beta 2.0:
+- Changed boost ramp from T-ramp to regular
+- Changed stair top collission to road
+- Scaled track to 1.297 (0.101 -> 0.131)
+- Made regular ramps and invisible road trickable
+- Fixed A site X collission/texture
+- Fixed T-ramp extra ramp UV mapping
+
+
+
+Beta 2.1:
+- Scaled track to 1.396 (0.101 -> 0.141)
+- Moved catwalk boxes onto glass layer
+- Moved boosts on mid
+- Fixed boost texture on A long
+- Fixed collission on A short stairs invis ramp
+- Made road speed bumps trickable
+
+
+Beta 2.2
+- Refixed boost texture on A long
+- Added boxes on A long to increase difficulty
+- Fixed collission hole on goose stairs
+- Added boost panel on goose ramp
+- Changed texture of A short ramp to wooden
+- Fixed collission bug on A short stairs
+- Made stairs longer to fit invis ramps
+- Fixed some glitched triangles on minimap
+- Removed z-clipping on catwalk wood ramp by separate course and kcl models
+- Fixed lighting channel bug on boost panels
+
+
+Beta 3
+- KMP implementation.
+- Fixed catwalk stair collission bug
+- Made extra invis road triangle on goose stairs for better sharp turn
+- Fixed glitched triangles in minimap
+- Removed accidental startline material on wall_decor
+
+
+v1.0
+- Resized textures to powers of 2 (if they weren't) to fix graphics in real Wii gameplay
+- Fixed UV Mapping bugs
+- Patched invalid material references due to broken light channel config 
+  * Thanks to Brawlboxgaming, Melg and JoeyMK for the help! ^^
+- Repositioned starting line and made driver distance smaller to avoid noclipping ramp
+- Upscaled starting line texture to 64x64
+
+
+
+
+
+
+- add arrow graffitis
+- add lighting
+

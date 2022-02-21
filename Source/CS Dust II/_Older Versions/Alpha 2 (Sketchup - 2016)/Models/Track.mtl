@@ -1,0 +1,641 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010-2011 TIG
+# Made for 'Track.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0
+d 1.000000
+
+newmtl Wall_box3
+Ka 0.525490 0.411765 0.301961
+Kd 0.525490 0.411765 0.301961
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_box3.PNG
+
+newmtl Roadl_box8
+Ka 0.643137 0.552941 0.423529
+Kd 0.643137 0.552941 0.423529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Roadl_box8.PNG
+
+newmtl Roadl_box18
+Ka 0.662745 0.541176 0.415686
+Kd 0.662745 0.541176 0.415686
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Roadl_box18.PNG
+
+newmtl Wall_box9
+Ka 0.474510 0.368627 0.266667
+Kd 0.474510 0.368627 0.266667
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_box9.PNG
+
+newmtl Road_box17
+Ka 0.662745 0.541176 0.415686
+Kd 0.662745 0.541176 0.415686
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_box17.PNG
+
+newmtl Wall_box
+Ka 0.525490 0.411765 0.301961
+Kd 0.525490 0.411765 0.301961
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_box.PNG
+
+newmtl Roadl_box2
+Ka 0.643137 0.552941 0.423529
+Kd 0.643137 0.552941 0.423529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Roadl_box2.PNG
+
+newmtl Wall_box4
+Ka 0.525490 0.411765 0.301961
+Kd 0.525490 0.411765 0.301961
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_box4.PNG
+
+newmtl Roadl_box5
+Ka 0.643137 0.552941 0.423529
+Kd 0.643137 0.552941 0.423529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Roadl_box5.PNG
+
+newmtl Wall_box6
+Ka 0.474510 0.368627 0.266667
+Kd 0.474510 0.368627 0.266667
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_box6.PNG
+
+newmtl Road_box7
+Ka 0.662745 0.541176 0.415686
+Kd 0.662745 0.541176 0.415686
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_box7.PNG
+
+newmtl Wall_2box4
+Ka 0.400000 0.403922 0.286275
+Kd 0.400000 0.403922 0.286275
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_2box4.PNG
+
+newmtl Road_2box3
+Ka 0.466667 0.482353 0.376471
+Kd 0.466667 0.482353 0.376471
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_2box3.PNG
+
+newmtl Wall_2box
+Ka 0.400000 0.403922 0.286275
+Kd 0.400000 0.403922 0.286275
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_2box.PNG
+
+newmtl Road_2box2
+Ka 0.466667 0.482353 0.376471
+Kd 0.466667 0.482353 0.376471
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_2box2.PNG
+
+newmtl Wall_box10
+Ka 0.525490 0.411765 0.301961
+Kd 0.525490 0.411765 0.301961
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_box10.PNG
+
+newmtl Roadl_box11
+Ka 0.643137 0.552941 0.423529
+Kd 0.643137 0.552941 0.423529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Roadl_box11.PNG
+
+newmtl Wall_box12
+Ka 0.474510 0.368627 0.266667
+Kd 0.474510 0.368627 0.266667
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_box12.PNG
+
+newmtl Road_box13
+Ka 0.662745 0.541176 0.415686
+Kd 0.662745 0.541176 0.415686
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_box13.PNG
+
+newmtl Wall_door
+Ka 0.466667 0.407843 0.364706
+Kd 0.466667 0.407843 0.364706
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_door.PNG
+
+newmtl Wall_door2
+Ka 0.458824 0.400000 0.360784
+Kd 0.458824 0.400000 0.360784
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_door2.PNG
+
+newmtl Wall_lamp1
+Ka 0.317647 0.192157 0.137255
+Kd 0.317647 0.192157 0.137255
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_lamp1.PNG
+
+newmtl Wall_rocks
+Ka 0.521569 0.376471 0.301961
+Kd 0.521569 0.376471 0.301961
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_rocks.PNG
+
+newmtl Wall_door4
+Ka 0.474510 0.415686 0.376471
+Kd 0.474510 0.415686 0.376471
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_door4.PNG
+
+newmtl Wall_door3
+Ka 0.462745 0.407843 0.360784
+Kd 0.462745 0.407843 0.360784
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_door3.PNG
+
+newmtl Wall_box14
+Ka 0.474510 0.368627 0.266667
+Kd 0.474510 0.368627 0.266667
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_box14.PNG
+
+newmtl Road_box15
+Ka 0.662745 0.541176 0.415686
+Kd 0.662745 0.541176 0.415686
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_box15.PNG
+
+newmtl Road_box16
+Ka 0.643137 0.552941 0.423529
+Kd 0.643137 0.552941 0.423529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_box16.PNG
+
+newmtl Wall_2box5
+Ka 0.431373 0.439216 0.345098
+Kd 0.431373 0.439216 0.345098
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_2box5.PNG
+
+newmtl Wall_2box6
+Ka 0.400000 0.403922 0.286275
+Kd 0.400000 0.403922 0.286275
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_2box6.PNG
+
+newmtl Wall_decor
+Ka 0.600000 0.494118 0.419608
+Kd 0.600000 0.494118 0.419608
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_decor.PNG
+
+newmtl Wall_decor2
+Ka 0.552941 0.498039 0.439216
+Kd 0.552941 0.498039 0.439216
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_decor2.PNG
+
+newmtl Wall_normal_window
+Ka 0.596078 0.501961 0.423529
+Kd 0.596078 0.501961 0.423529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_normal_window.PNG
+
+newmtl Wall_normal
+Ka 0.686275 0.580392 0.486275
+Kd 0.686275 0.580392 0.486275
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_normal.PNG
+
+newmtl Road_sand
+Ka 0.866667 0.717647 0.537255
+Kd 0.866667 0.717647 0.537255
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_sand.PNG
+
+newmtl Road_dirt
+Ka 0.780392 0.572549 0.388235
+Kd 0.780392 0.572549 0.388235
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_dirt.PNG
+
+newmtl Road_rocks
+Ka 0.639216 0.490196 0.352941
+Kd 0.639216 0.490196 0.352941
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_rocks.PNG
+
+newmtl Road_rocks2
+Ka 0.639216 0.490196 0.352941
+Kd 0.639216 0.490196 0.352941
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_rocks2.PNG
+
+newmtl Wall_normal_window2
+Ka 0.596078 0.501961 0.423529
+Kd 0.596078 0.501961 0.423529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_normal_window2.PNG
+
+newmtl Wall_normal2
+Ka 0.686275 0.580392 0.486275
+Kd 0.686275 0.580392 0.486275
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_normal2.PNG
+
+newmtl Wall_lamp2
+Ka 0.227451 0.137255 0.098039
+Kd 0.227451 0.137255 0.098039
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_lamp2.PNG
+
+newmtl Wall_lamplight
+Ka 0.678431 0.705882 0.709804
+Kd 0.678431 0.705882 0.709804
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_lamplight.PNG
+
+newmtl Startline
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Startline.PNG
+
+newmtl Transglass
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 0.500000
+
+newmtl Wall_jerseybarrier2
+Ka 0.858824 0.835294 0.823529
+Kd 0.858824 0.835294 0.823529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Wall_jerseybarrier2.PNG
+
+newmtl Wall_jerseybarrier1
+Ka 0.933333 0.521569 0.219608
+Kd 0.933333 0.521569 0.219608
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+
+newmtl Trickramp_wood
+Ka 0.678431 0.545098 0.294118
+Kd 0.678431 0.545098 0.294118
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Trickramp_wood.PNG
+
+newmtl Boost_pads
+Ka 0.239216 0.047059 0.047059
+Kd 0.239216 0.047059 0.047059
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Boost_pads.PNG
+
+newmtl Road_wood
+Ka 0.678431 0.545098 0.294118
+Kd 0.678431 0.545098 0.294118
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_wood.PNG
+
+newmtl Road_wallf1x
+Ka 0.686275 0.580392 0.486275
+Kd 0.686275 0.580392 0.486275
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_wallf1x.PNG
+
+newmtl Road_transparent
+Ka 0.866667 0.717647 0.537255
+Kd 0.866667 0.717647 0.537255
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 0.000000
+map_Kd Track_Textures/Road_transparent.PNG
+
+newmtl wall_transparent
+Ka 0.984314 0.972549 1.000000
+Kd 0.984314 0.972549 1.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 0.000000
+
+newmtl rush_b
+Ka 0.396078 0.341176 0.325490
+Kd 0.396078 0.341176 0.325490
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/rush_b.PNG
+
+newmtl pedro_el_mono
+Ka 0.349020 0.313725 0.211765
+Kd 0.349020 0.313725 0.211765
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/pedro_el_mono.PNG
+
+newmtl Chris
+Ka 0.392157 0.356863 0.360784
+Kd 0.392157 0.356863 0.360784
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Chris.PNG
+
+newmtl pewdsnazi
+Ka 0.486275 0.364706 0.329412
+Kd 0.486275 0.364706 0.329412
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/pewdsnazi.PNG
+
+newmtl DolanDarkpfp
+Ka 0.431373 0.423529 0.423529
+Kd 0.431373 0.423529 0.423529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/DolanDarkpfp.PNG
+
+newmtl guyhang
+Ka 0.607843 0.611765 0.639216
+Kd 0.607843 0.611765 0.639216
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/guyhang.PNG
+
+newmtl MyNameJeff
+Ka 0.501961 0.509804 0.556863
+Kd 0.501961 0.509804 0.556863
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/MyNameJeff.PNG
+
+newmtl ToBeFair
+Ka 0.811765 0.819608 0.823529
+Kd 0.811765 0.819608 0.823529
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/ToBeFair.PNG
+
+newmtl Vsauce
+Ka 0.196078 0.117647 0.109804
+Kd 0.196078 0.117647 0.109804
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Vsauce.PNG
+
+newmtl SampleText
+Ka 0.039216 0.039216 0.039216
+Kd 0.039216 0.039216 0.039216
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/SampleText.PNG
+
+newmtl SubToDolan
+Ka 0.984314 0.984314 0.984314
+Kd 0.984314 0.984314 0.984314
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/SubToDolan.PNG
+
+newmtl Road_stairs
+Ka 0.866667 0.717647 0.537255
+Kd 0.866667 0.717647 0.537255
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Road_stairs.PNG
+
+newmtl Boost_ramps
+Ka 0.000000 0.141176 0.239216
+Kd 0.000000 0.141176 0.239216
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Boost_ramps.PNG
+
+newmtl B_Circled
+Ka 0.882353 0.847059 0.847059
+Kd 0.882353 0.847059 0.847059
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/B_Circled.PNG
+
+newmtl B
+Ka 0.854902 0.827451 0.827451
+Kd 0.854902 0.827451 0.827451
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/B.PNG
+
+newmtl B_left
+Ka 0.956863 0.941176 0.941176
+Kd 0.956863 0.941176 0.941176
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/B_left.PNG
+
+newmtl B_right
+Ka 0.941176 0.925490 0.925490
+Kd 0.941176 0.925490 0.925490
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/B_right.PNG
+
+newmtl A_left
+Ka 0.972549 0.968627 0.968627
+Kd 0.972549 0.968627 0.968627
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/A_left.PNG
+
+newmtl A_right
+Ka 0.925490 0.921569 0.917647
+Kd 0.925490 0.921569 0.917647
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/A_right.PNG
+
+newmtl A
+Ka 0.952941 0.937255 0.937255
+Kd 0.952941 0.937255 0.937255
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/A.PNG
+
+newmtl A_circled
+Ka 0.921569 0.823529 0.815686
+Kd 0.921569 0.823529 0.815686
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/A_circled.PNG
+
+newmtl Eatpant
+Ka 0.796078 0.741176 0.552941
+Kd 0.796078 0.741176 0.552941
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Eatpant.PNG
+
+newmtl Signature
+Ka 0.219608 0.156863 0.282353
+Kd 0.219608 0.156863 0.282353
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Signature.PNG
+
+newmtl Fallbound_diamond
+Ka 0.580392 0.607843 0.470588
+Kd 0.580392 0.607843 0.470588
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Fallbound_diamond.PNG
+
+newmtl SignWood
+Ka 0.639216 0.372549 0.172549
+Kd 0.639216 0.372549 0.172549
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/SignWood.PNG
+
+newmtl Sign_white
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Sign_white.PNG
+
+newmtl Sign_red
+Ka 0.564706 0.094118 0.031373
+Kd 0.564706 0.094118 0.031373
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd Track_Textures/Sign_red.PNG
+
+#EOF
