@@ -1,0 +1,84 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010-2011 TIG
+# Made for 'track.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0
+d 1.000000
+
+newmtl Startline
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd track_Textures/Startline.PNG
+
+newmtl Road
+Ka 0.835294 0.486275 0.000000
+Kd 0.835294 0.486275 0.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd track_Textures/Road.PNG
+
+newmtl Wall
+Ka 0.349020 0.368627 0.352941
+Kd 0.349020 0.368627 0.352941
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd track_Textures/Wall.PNG
+
+newmtl Sea_waterstill
+Ka 0.176471 0.580392 0.635294
+Kd 0.176471 0.580392 0.635294
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd track_Textures/Sea_waterstill.PNG
+
+newmtl ef_rainbowRed2
+Ka 1.000000 0.333333 0.180392
+Kd 1.000000 0.333333 0.180392
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd track_Textures/ef_rainbowRed2.PNG
+
+newmtl Column
+Ka 0.686275 0.454902 0.400000
+Kd 0.686275 0.454902 0.400000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd track_Textures/Column.PNG
+
+newmtl Door
+Ka 0.572549 0.611765 0.650980
+Kd 0.572549 0.611765 0.650980
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd track_Textures/Door.PNG
+
+newmtl Wood_Floor
+Ka 0.607843 0.411765 0.239216
+Kd 0.607843 0.411765 0.239216
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd track_Textures/Wood_Floor.PNG
+
+newmtl Grass_Dark_Green
+Ka 0.415686 0.615686 0.215686
+Kd 0.415686 0.615686 0.215686
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd track_Textures/Grass_Dark_Green.PNG
+
+#EOF

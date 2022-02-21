@@ -1,0 +1,44 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010-2011 TIG
+# Made for 'map.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0
+d 1.000000
+
+newmtl Startline
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_Textures/Startline.png
+
+newmtl Road
+Ka 0.835294 0.486275 0.000000
+Kd 0.835294 0.486275 0.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_Textures/Road.png
+
+newmtl Wall
+Ka 0.349020 0.368627 0.352941
+Kd 0.349020 0.368627 0.352941
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_Textures/Wall.png
+
+newmtl ef_rainbowRed2
+Ka 1.000000 0.333333 0.180392
+Kd 1.000000 0.333333 0.180392
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_Textures/ef_rainbowRed2.png
+
+#EOF
