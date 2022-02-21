@@ -1,1 +1,1 @@
-#Counter-Strike 1.6: Dust II (de_dust2)
+# Counter-Strike 1.6: Dust II (de_dust2)
