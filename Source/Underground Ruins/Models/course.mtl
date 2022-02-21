@@ -1,0 +1,332 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010-2011 TIG
+# Made for 'course.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0
+d 1.000000
+
+newmtl Road_floorchecker
+Ka 0.380392 0.333333 0.164706
+Kd 0.380392 0.333333 0.164706
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Road_floorchecker.PNG
+
+newmtl Wall_darksandstone
+Ka 0.098039 0.058824 0.000000
+Kd 0.098039 0.058824 0.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_darksandstone.PNG
+
+newmtl Wall_column
+Ka 0.411765 0.345098 0.125490
+Kd 0.411765 0.345098 0.125490
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_column.PNG
+
+newmtl Road_sandpath
+Ka 0.478431 0.419608 0.243137
+Kd 0.478431 0.419608 0.243137
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Road_sandpath.PNG
+
+newmtl Wall_sandstonev2
+Ka 0.376471 0.329412 0.188235
+Kd 0.376471 0.329412 0.188235
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_sandstonev2.PNG
+
+newmtl Boostramp
+Ka 0.576471 0.070588 0.101961
+Kd 0.576471 0.070588 0.101961
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Boostramp.PNG
+
+newmtl Road_floorcheckerbr
+Ka 0.329412 0.290196 0.145098
+Kd 0.329412 0.290196 0.145098
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Road_floorcheckerbr.PNG
+
+newmtl Wall_glass
+Ka 0.713725 0.713725 0.713725
+Kd 0.713725 0.713725 0.713725
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 0.360000
+map_Kd course_Textures/Wall_glass.PNG
+
+newmtl FallBoundary
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/FallBoundary.PNG
+
+newmtl Road_sand
+Ka 0.447059 0.407843 0.227451
+Kd 0.447059 0.407843 0.227451
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Road_sand.PNG
+
+newmtl Road_rail
+Ka 0.200000 0.168627 0.125490
+Kd 0.200000 0.168627 0.125490
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Road_rail.PNG
+
+newmtl Wall_rockgara1
+Ka 0.047059 0.023529 0.011765
+Kd 0.047059 0.023529 0.011765
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_rockgara1.PNG
+
+newmtl Wall_tunnel
+Ka 0.266667 0.247059 0.184314
+Kd 0.266667 0.247059 0.184314
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_tunnel.PNG
+
+newmtl Boostpad
+Ka 0.125490 0.145098 0.447059
+Kd 0.125490 0.145098 0.447059
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Boostpad.PNG
+
+newmtl Road_startline
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Road_startline.PNG
+
+newmtl Road_invisible
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Road_invisible.PNG
+
+newmtl Wall_concretefac
+Ka 0.329412 0.329412 0.329412
+Kd 0.329412 0.329412 0.329412
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_concretefac.PNG
+
+newmtl Wall_concretebrick
+Ka 0.149020 0.149020 0.149020
+Kd 0.149020 0.149020 0.149020
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_concretebrick.PNG
+
+newmtl wall_woodroof
+Ka 0.447059 0.301961 0.176471
+Kd 0.447059 0.301961 0.176471
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_woodroof.PNG
+
+newmtl wall_metalcolumn1
+Ka 0.349020 0.349020 0.349020
+Kd 0.349020 0.349020 0.349020
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_metalcolumn1.PNG
+
+newmtl wall_graf1
+Ka 0.137255 0.137255 0.137255
+Kd 0.137255 0.137255 0.137255
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf1.PNG
+
+newmtl wall_graf2
+Ka 0.203922 0.235294 0.243137
+Kd 0.203922 0.235294 0.243137
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf2.PNG
+
+newmtl wall_graf3
+Ka 0.168627 0.211765 0.203922
+Kd 0.168627 0.211765 0.203922
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf3.PNG
+
+newmtl wall_graf4
+Ka 0.694118 0.694118 0.694118
+Kd 0.694118 0.694118 0.694118
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf4.PNG
+
+newmtl wall_graf5
+Ka 0.023529 0.023529 0.019608
+Kd 0.023529 0.023529 0.019608
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf5.PNG
+
+newmtl wall_graf6
+Ka 0.615686 0.650980 0.658824
+Kd 0.615686 0.650980 0.658824
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf6.PNG
+
+newmtl wall_graf7
+Ka 0.039216 0.039216 0.039216
+Kd 0.039216 0.039216 0.039216
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf7.PNG
+
+newmtl wall_graf8
+Ka 0.690196 0.690196 0.690196
+Kd 0.690196 0.690196 0.690196
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf8.PNG
+
+newmtl wall_graf9
+Ka 0.858824 0.858824 0.858824
+Kd 0.858824 0.858824 0.858824
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf9.PNG
+
+newmtl wall_graf10
+Ka 0.670588 0.670588 0.670588
+Kd 0.670588 0.670588 0.670588
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_graf10.PNG
+
+newmtl Wall_transp
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_transp.PNG
+
+newmtl Wall_signwhite
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_signwhite.PNG
+
+newmtl Wall_signred
+Ka 0.564706 0.094118 0.031373
+Kd 0.564706 0.094118 0.031373
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_signred.PNG
+
+newmtl Wall_restricted
+Ka 0.654902 0.545098 0.537255
+Kd 0.654902 0.545098 0.537255
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_restricted.PNG
+
+newmtl Wall_signwood
+Ka 0.639216 0.372549 0.172549
+Kd 0.639216 0.372549 0.172549
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_signwood.PNG
+
+newmtl Wall_signwhite2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_signwhite2.PNG
+
+newmtl Wall_signred2
+Ka 0.564706 0.094118 0.031373
+Kd 0.564706 0.094118 0.031373
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/Wall_signred2.PNG
+
+newmtl wall_mbox3
+Ka 0.450980 0.462745 0.498039
+Kd 0.450980 0.462745 0.498039
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_mbox3.PNG
+
+newmtl wall_mbox2
+Ka 0.568627 0.564706 0.572549
+Kd 0.568627 0.564706 0.572549
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_mbox2.PNG
+
+newmtl wall_mbox1
+Ka 0.501961 0.521569 0.560784
+Kd 0.501961 0.521569 0.560784
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd course_Textures/wall_mbox1.PNG
+
+#EOF

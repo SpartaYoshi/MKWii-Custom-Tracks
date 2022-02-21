@@ -1,0 +1,84 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010-2011 TIG
+# Made for 'map_model.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0
+d 1.000000
+
+newmtl Road_floorchecker
+Ka 0.380392 0.333333 0.164706
+Kd 0.380392 0.333333 0.164706
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_model_Textures/Road_floorchecker.bmp
+
+newmtl Wall_darksandstone
+Ka 0.196078 0.152941 0.039216
+Kd 0.196078 0.152941 0.039216
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_model_Textures/Wall_darksandstone.jpg
+
+newmtl Road_sandpath
+Ka 0.478431 0.419608 0.243137
+Kd 0.478431 0.419608 0.243137
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_model_Textures/Road_sandpath.png
+
+newmtl Wall_sandstonev2
+Ka 0.376471 0.329412 0.188235
+Kd 0.376471 0.329412 0.188235
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_model_Textures/Wall_sandstonev2.jpg
+
+newmtl Boostramp
+Ka 0.576471 0.070588 0.101961
+Kd 0.576471 0.070588 0.101961
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_model_Textures/Boostramp.bmp
+
+newmtl Road_floorcheckerbr
+Ka 0.329412 0.290196 0.145098
+Kd 0.329412 0.290196 0.145098
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_model_Textures/Road_floorcheckerbr.bmp
+
+newmtl Road_sand
+Ka 0.447059 0.407843 0.227451
+Kd 0.447059 0.407843 0.227451
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_model_Textures/Road_sand.bmp
+
+newmtl Boostpad
+Ka 0.125490 0.145098 0.447059
+Kd 0.125490 0.145098 0.447059
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_model_Textures/Boostpad.bmp
+
+newmtl Road_startline
+Ka 0.498039 0.498039 0.498039
+Kd 0.498039 0.498039 0.498039
+Ks 0.333333 0.333333 0.333333
+Ns 0
+d 1.000000
+map_Kd map_model_Textures/Road_startline.png
+
+#EOF

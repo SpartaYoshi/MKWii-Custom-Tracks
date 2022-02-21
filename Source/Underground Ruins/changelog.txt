@@ -1,0 +1,86 @@
+VERSION LOG:
+
+v1 - first release
+
+v1.01 -
+scaled up to 150%
+removed sandcone and smoke
+lowered bouncy mushrooms
+added green mushroom
+
+v1.02 - 
+patched minimap
+
+v1.03 - 
+Scaled up to 225%
+fixed respawns
+
+v1.04 - 
+Fixed goombas
+Fixed checkpoints (now lap 1 counts)
+Fixed item routes (bullet bill now follows route vertically)
+rescaled and repositioned mushrooms
+Adjusted enemy and item route
+Changed dark wall texture
+Fixed cpu routes (now they follow the different routes)
+Fixed restricted sign texture
+Fixed mine wagons speed (rotation is fucked tho)
+
+v1.05 - 
+Fixed harry potter effect in brawlbox
+vrcorn texture is now black
+
+v1.06 -
+Fixed distorted textures
+Fixed glass texture
+Added mipmaps to texture
+model changes :
+- Fixed reversed faces
+- Implemented invisible ramps
+- Fixed textures
+- Expanded some areas
+- Abysses are deeper
+- Added boost below hole thing
+(everything is road)
+
+v1.07 -
+new kcl
+rescaled back to 2.25
+
+v1.08 - 
+fixed black screen
+truck wagons fixed
+green mushrooms fixed
+
+v1.09 - 
+Expanded an area on first wagon section for better turning.
+New section: abandoned warehouse
+Added metal boxes
+Added more mipmaps
+Fixed fall boundaries
+
+
+things to fix:
+- bullet bill route
+- expand area
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
