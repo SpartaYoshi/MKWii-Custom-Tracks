@@ -3,31 +3,13 @@
 # Created with Kaydara FBX
 # 
 
-newmtl carpet21
-map_Kd carpet21.png
+newmtl concretewall010c
+map_Kd concretewall010c.png
 Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.040000 0.040000 0.040000
 illum 2
 Ns 1.000000
-Tr 1.000000
-
-newmtl concretewall001a
-map_Kd concretewall001a.png
-Ka 0.000000 0.000000 0.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.200000 0.200000 0.200000
-illum 2
-Ns 25.000000
-Tr 1.000000
-
-newmtl startline
-map_Kd road_startv2.png
-Ka 0.000000 0.000000 0.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.200000 0.200000 0.200000
-illum 2
-Ns 25.000000
 Tr 1.000000
 
 newmtl backrooms
@@ -77,15 +59,6 @@ Tr 1.000000
 
 newmtl dev_lowermetaldoor02a
 map_Kd dev_lowermetaldoor02a.png
-Ka 0.000000 0.000000 0.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.040000 0.040000 0.040000
-illum 2
-Ns 1.000000
-Tr 1.000000
-
-newmtl concretewall010c
-map_Kd concretewall010c.png
 Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.040000 0.040000 0.040000
@@ -156,6 +129,15 @@ illum 2
 Ns 25.000000
 Tr 1.000000
 
+newmtl tile_ceiling_01
+map_Kd tile_ceiling_01.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.040000 0.040000 0.040000
+illum 2
+Ns 1.000000
+Tr 1.000000
+
 newmtl concreteceiling004a
 map_Kd concreteceiling004a.png
 Ka 0.000000 0.000000 0.000000
@@ -165,11 +147,32 @@ illum 2
 Ns 1.000000
 Tr 1.000000
 
-newmtl tile_ceiling_01
-map_Kd tile_ceiling_01.png
+newmtl startline
+map_Kd road_startv2.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 25.000000
+Tr 1.000000
+
+newmtl carpet21
+map_Kd carpet21.png
 Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.040000 0.040000 0.040000
 illum 2
 Ns 1.000000
 Tr 1.000000
+
+newmtl concretewall001a
+map_Kd concretewall001a.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 25.000000
+Tr 1.000000
+
+newmtl default1
+illum 2

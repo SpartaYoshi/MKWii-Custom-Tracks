@@ -46,7 +46,8 @@
 #				= a(type,w,x,y,z)
 #				= i(type,z,index)
 #-----------------------------------------------------------------------------
-  CEILING_HULL			= a(0x0C,0,0,0,0)
-  FLOOR_CARPET			= a(0x00,0,0,0,0)
-  WALL_BACKROOMS		= a(0x0C,0,0,0,0)
+  CEILING			= a(0x0C,0,0,0,0)
+  FLOOR				= a(0x00,0,0,0,0)
+  OUT_OF_BOUNDS			= a(0x10,0,0,0,7)
+  WALL				= a(0x0C,0,0,0,0)
 

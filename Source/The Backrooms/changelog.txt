@@ -1,2 +1,12 @@
-Test 1:
+Test:
 - First test
+
+Beta:
+- Patched ceiling holes from removed lamps
+- Added out of bounds trigger
+- Adjusted UVs
+- Moved decals closer to surface 
+- Raised level
+- Made extra ceiling layer for weird ceiling holes
+- Implemented KMP
+- Increased vrcorn scale to 0.01x
