@@ -10,3 +10,6 @@ Beta:
 - Made extra ceiling layer for weird ceiling holes
 - Implemented KMP
 - Increased vrcorn scale to 0.01x
+
+Beta 2:
+- Implemented lighting (needs to be fixed)
