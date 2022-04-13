@@ -13,3 +13,7 @@ Beta:
 
 Beta 2:
 - Implemented lighting (needs to be fixed)
+
+v1.0:
+- Raised light sources
+- Redone lighting (new bake + seamed faces = better)
