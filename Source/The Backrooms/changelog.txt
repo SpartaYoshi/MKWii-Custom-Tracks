@@ -16,7 +16,7 @@ Beta:
 Beta 2:
 - Implemented lighting (needs to be fixed)
 
-v1.0-pre:
+Beta 3:
 - Raised light sources
 - Redone cleaner light map
 
