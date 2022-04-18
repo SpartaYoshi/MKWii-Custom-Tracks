@@ -1,3 +1,4 @@
+Changelog of previous unreleased versions:
 Test:
 - First test
 
@@ -17,7 +18,13 @@ Beta 2:
 
 v1.0-pre:
 - Raised light sources
-- Redone lighting (new bake + seamed faces = better)
+- Redone cleaner light map
 
 v1.0:
-- Redone cleaner light map
+- Redone cleaner light map x 2
+- Divided into three different light maps.
+- Duplicated shader for floor carpet to increase visibility.
+
+v1.0b - Update by @🥊Brawlbox🥊 :
+- Translated minimap out of screen
+- Downscaled textures
