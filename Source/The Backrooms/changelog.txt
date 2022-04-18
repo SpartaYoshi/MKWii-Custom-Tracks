@@ -9,11 +9,15 @@ Beta:
 - Raised level
 - Made extra ceiling layer for weird ceiling holes
 - Implemented KMP
-- Increased vrcorn scale to 0.01x
+- vrcorn downscaled to 0.01x
+- Minimap downscaled to 0.01x
 
 Beta 2:
 - Implemented lighting (needs to be fixed)
 
-v1.0:
+v1.0-pre:
 - Raised light sources
 - Redone lighting (new bake + seamed faces = better)
+
+v1.0:
+- Redone cleaner light map
