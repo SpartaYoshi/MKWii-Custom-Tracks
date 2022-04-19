@@ -60,10 +60,11 @@ v1.0
 - Upscaled starting line texture to 64x64
 
 
-
+v1.2
+- Implemented lighting
+- Merged duplicate geometry
 
 
 
 - add arrow graffitis
-- add lighting
 
