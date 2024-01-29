@@ -1,0 +1,8 @@
+{misc_ironwin
+glasswindow044a   -blend
+glasswindow048a   -blend
+metalbar001c
+metalfence007a
+metalgrate013a
+metalrail003a
+metalrail011a
