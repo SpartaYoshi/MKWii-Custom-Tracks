@@ -1,0 +1,86 @@
+
+##############################################################################
+#####     All behind a '#' on the same line is a comment and ignored.    #####
+#####     See https://szs.wiimm.de/doc/kcl/flagfile for more details.    #####
+##############################################################################
+# function f()
+
+# First, we define a flag function named f().
+# This allows us to define type and variant as 2 values.
+
+@function f # (type,variant)
+    @return $1 & 0x1f | $2 << 5
+@endfunction
+
+##############################################################################
+# function a()
+
+# Here we define function a() to support the flag variant type A.
+# For details see http://wiimm.de/r/ctw/KCL_flag
+
+@function a # (type,w,x,y,z)
+    @return $1 & 0x1f		# type (5 bits)
+	> | ( $2 & 7 ) << 13	# W (3 bits)
+	> | ( $3 & 3 ) << 11	# X (2 bits)
+	> | ( $4 & 7 ) << 8	# Y (3 bits)
+	> | ( $5 & 7 ) << 5	# Z (3 bits)
+@endfunction
+
+##############################################################################
+# function i()
+
+# The function i() supports fall boundaries.
+
+@function i # (type,z,index)
+    @return $1 & 0x1f		# type (5 bits)
+	> | ( $2 &    7 ) << 5	# Z (3 bits)
+	> | ( $3 & 0xff ) << 8	# index (8 bits)
+@endfunction
+
+##############################################################################
+# table
+
+#-----------------------------------------------------------------------------
+# group_name			= flag_or_expression
+#				= f(type,variant)
+#				= a(type,w,x,y,z)
+#				= i(type,z,index)
+#-----------------------------------------------------------------------------
+  BOOSTPAD			= a(0x07,0,0,0,0)
+  BOOSTPANEL		= a(0x06,0,0,0,0)
+  ROAD_ASITEX			= a(0x00,0,0,0,0)
+  ROAD_BSITEX			= a(0x00,0,0,0,0)
+  ROAD_GLASSLAYER		= a(0x00,0,0,0,3)
+  ROAD_INVISIBLE		= a(0x00,1,0,0,0)
+  ROAD_LYST			= a(0x00,0,0,0,3)
+  ROAD_METALBOX			= a(0x00,1,0,0,6)
+  ROAD_SAND			= a(0x00,0,0,0,1)
+  ROAD_SAND2			= a(0x00,0,0,0,1)
+  ROAD_STAIRTOP			= a(0x00,1,0,0,3)
+  ROAD_STARTLINE		= a(0x00,0,0,0,0)
+  ROAD_STONE			= a(0x00,0,0,0,0)
+  ROAD_WOODBOXTOP		= a(0x00,1,0,0,4)
+  ROAD_WOODBOXTOP2		= a(0x00,1,0,0,4)
+  ROAD_WOODRAMP			= a(0x00,0,0,0,4)
+  ROADTR_GLASSLAYER		= a(0x00,1,0,0,3)
+  ROADTR_STONE			= a(0x00,1,0,0,0)
+  ROADTR_WOODRAMP		= a(0x00,1,0,0,4)
+  WALL_ASITESIGN		= a(0x0C,0,0,0,0)
+  WALL_BSITESIGN		= a(0x0C,0,0,0,0)
+  WALL_DECOR			= a(0x0C,0,0,0,0)
+  WALL_DOOR			= a(0x0C,0,0,0,3)
+  WALL_DOOR2			= a(0x0C,0,0,0,3)
+  WALL_DOORASIGN		= a(0x0C,0,0,0,3)
+  WALL_DOORBSIGN		= a(0x0C,0,0,0,3)
+  WALL_DOORGRAFF		= a(0x0C,0,0,0,3)
+  WALL_DOORTSPAWN		= a(0x0C,0,0,0,3)
+  WALL_METALBOX			= a(0x0C,0,0,0,2)
+  WALL_METALBOX2		= a(0x0C,0,0,0,2)
+  WALL_ROCKS			= a(0x0C,0,0,0,1)
+  WALL_SANDSTONE		= a(0x0C,0,0,0,0)
+  WALL_SANDSTONEGOOSE		= a(0x0C,0,0,0,0)
+  WALL_SANDSTONEWINDOWS		= a(0x0C,0,0,0,0)
+  WALL_WOODBOX			= a(0x0C,0,0,0,3)
+  WALL_WOODBOX2			= a(0x0C,0,0,0,3)
+  WALL_WOODRAMP			= a(0x0C,0,0,0,3)
+
