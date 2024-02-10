@@ -1,0 +1,31 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl carpet21
+map_Kd carpet21.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.040000 0.040000 0.040000
+illum 2
+Ns 1.000000
+Tr 1.000000
+
+newmtl startline
+map_Kd road_startv2.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+illum 2
+Ns 25.000000
+Tr 1.000000
+
+newmtl carpet21_001
+map_Kd carpet21.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.040000 0.040000 0.040000
+illum 2
+Ns 1.000000
+Tr 1.000000
