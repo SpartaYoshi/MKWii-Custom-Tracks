@@ -28,3 +28,15 @@ v1.0:
 v1.0b - Update by @🥊Brawlbox🥊 :
 - Translated minimap out of screen
 - Downscaled textures
+
+v1.1:
+- Remodelled certain sections of the track for better driving and playability.
+- Moved OOB triggers on KCL further away to expand drivable areas.
+- New painted markings on floor to guide players and confuse less.
+- New improved global lighting (8 lightmaps).
+- KMP adjustments to fit model changes.
+- Added props around the track.
+- Tweaked KCL to be able to access chamber room.
+- Cleaned up perpendicular face collision from mostly everywhere on the track, as this screwed up the lightmaps.
+- Minor model changes for some textures.
+- Minor bugfixes.
